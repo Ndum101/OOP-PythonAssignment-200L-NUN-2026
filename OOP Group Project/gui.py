@@ -7,6 +7,7 @@
     Rahmatallahi Ismael Mustapha   | 241030101
     Faisal Bagudu Ibrahim          | 242030094
     Tomiwa Giwa                    | 242030015
+    Derek Eugene                   |  242030111
 ============================================================
   Course:     Object-Oriented Programming
   Level:      200L
