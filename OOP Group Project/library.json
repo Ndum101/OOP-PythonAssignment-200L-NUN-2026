@@ -1,0 +1,125 @@
+{
+  "_group": {
+    "project": "OOP Group Project — Library Management System",
+    "members": [
+      "Ndubuisi Johnkennedy Okeke     | 242030102",
+      "Rahmatallahi Ismael Mustapha   | 241030101",
+      "Faisal Bagudu Ibrahim          | 242030094",
+      "Tomiwa Giwa                    | 242030015"
+    ],
+    "course": "Object-Oriented Programming",
+    "level": "200L",
+    "university": "Nigerian University of Nissi (NUN)",
+    "year": "2026"
+  },
+  "books": {
+    "1": {
+      "book_id": "1",
+      "title": "Red Rising",
+      "author": "Stephen Reid",
+      "total_copies": 7,
+      "available_copies": 7
+    },
+    "2": {
+      "book_id": "2",
+      "title": "ACOTAR",
+      "author": "Sarah J. Maas",
+      "total_copies": 20,
+      "available_copies": 20
+    },
+    "3": {
+      "book_id": "3",
+      "title": "Deep End",
+      "author": "Ali Hazlewood",
+      "total_copies": 10,
+      "available_copies": 10
+    },
+    "4": {
+      "book_id": "4",
+      "title": "The Final Target",
+      "author": "Nora Roberts",
+      "total_copies": 8,
+      "available_copies": 8
+    },
+    "5": {
+      "book_id": "5",
+      "title": "Roses",
+      "author": "Craig Reid",
+      "total_copies": 9,
+      "available_copies": 9
+    },
+    "6": {
+      "book_id": "6",
+      "title": "Harry Potter",
+      "author": "J.K Rowley",
+      "total_copies": 7,
+      "available_copies": 7
+    }
+  },
+  "members": {
+    "1": {
+      "member_id": "1",
+      "name": "Rahmah",
+      "email": "Rahmah@gmail.com",
+      "issued_books": []
+    },
+    "2": {
+      "member_id": "2",
+      "name": "John",
+      "email": "John@gmail.com",
+      "issued_books": []
+    },
+    "3": {
+      "member_id": "3",
+      "name": "Derek Eugene",
+      "email": "derek@gmail.com",
+      "issued_books": []
+    },
+    "4": {
+      "member_id": "4",
+      "name": "Faisal",
+      "email": "Faisal@gmail.com",
+      "issued_books": []
+    },
+    "5": {
+      "member_id": "5",
+      "name": "Tomiwa",
+      "email": "Tomiwa@gmail.com",
+      "issued_books": []
+    },
+    "6": {
+      "member_id": "6",
+      "name": "Emmanuel",
+      "email": "Emmanuel@gmail.com",
+      "issued_books": []
+    }
+  },
+  "records": [
+    {
+      "record_id": 1,
+      "member_id": "1",
+      "book_id": "2",
+      "borrow_date": "2026-06-02",
+      "due_date": "2026-06-16",
+      "return_date": "2026-06-02"
+    },
+    {
+      "record_id": 2,
+      "member_id": "2",
+      "book_id": "2",
+      "borrow_date": "2026-06-02",
+      "due_date": "2026-06-16",
+      "return_date": "2026-06-02"
+    },
+    {
+      "record_id": 3,
+      "member_id": "6",
+      "book_id": "4",
+      "borrow_date": "2026-06-02",
+      "due_date": "2026-06-16",
+      "return_date": "2026-06-02"
+    }
+  ],
+  "next_book_id": 7,
+  "next_member_id": 7
+}
